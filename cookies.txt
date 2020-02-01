@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/lms/	FALSE	1999999999	wordpress_lp_guest	5eeeb1597c16bb4a3705482c5d56195a
+localhost	TRUE	/lms/	FALSE	1999999999	wp_learn_press_session_e1035aa901a244c921618adbdefaf3f8	fa6191ada4533a7ab4326bd26a40c3aa%7C%7C1580750597%7C%7Ce03cd7e9b4cc11d40a95b7d8603b861e
+localhost	TRUE	/lms/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

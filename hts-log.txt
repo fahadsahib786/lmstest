@@ -1,0 +1,160 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 01 Feb 2020 22:21:23 at https://localhost/lms/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://localhost/lms/ -O1 "F:\Clonned Websites\https___localhost_lms_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:21:57	Warning: 	Found for https://localhost/lms/login/
+22:21:57	Warning: 	File has moved from https://localhost/lms/login/ to https://localhost/lms/wp-login.php
+22:24:11	Error: 	"Not Found" (404) at link https://localhost/lms/admin@education-lms.com (from https://localhost/lms/)
+22:24:19	Warning: 	Moved Permanently for https://localhost/lms/?p=306
+22:24:19	Warning: 	File has moved from https://localhost/lms/?p=306 to https://localhost/lms/register/
+22:24:19	Error: 	"Not Found" (404) at link https://localhost/lms/register/admin@education-lms.com (from https://localhost/lms/register/)
+22:24:21	Warning: 	Moved Permanently for https://localhost/lms/?p=408
+22:24:21	Warning: 	File has moved from https://localhost/lms/?p=408 to https://localhost/lms/about-us/
+22:24:21	Error: 	"Not Found" (404) at link https://localhost/lms/about-us/admin@education-lms.com (from https://localhost/lms/about-us/)
+22:24:52	Error: 	"Not Found" (404) at link https://localhost/lms/courses/admin@education-lms.com (from https://localhost/lms/courses/)
+22:26:08	Error: 	"Not Found" (404) at link https://localhost/lms/blog/admin@education-lms.com (from https://localhost/lms/blog/)
+22:26:14	Warning: 	Moved Permanently for https://localhost/lms/?p=308
+22:26:14	Warning: 	File has moved from https://localhost/lms/?p=308 to https://localhost/lms/contact-us/
+22:26:14	Error: 	"Not Found" (404) at link https://localhost/lms/contact-us/admin@education-lms.com (from https://localhost/lms/contact-us/)
+22:26:14	Warning: 	Moved Permanently for https://localhost/lms/?p=687
+22:26:14	Warning: 	File has moved from https://localhost/lms/?p=687 to https://localhost/lms/become-a-teacher-2/
+22:26:21	Error: 	"Not Found" (404) at link https://localhost/lms/become-a-teacher-2/admin@education-lms.com (from https://localhost/lms/become-a-teacher-2/)
+22:26:21	Warning: 	Moved Permanently for https://localhost/lms/?p=483
+22:26:21	Warning: 	File has moved from https://localhost/lms/?p=483 to https://localhost/lms/course/master-of-jquery/
+22:26:32	Error: 	"Not Found" (404) at link https://localhost/lms/course/master-of-jquery/admin@education-lms.com (from https://localhost/lms/course/master-of-jquery/)
+22:26:33	Warning: 	Moved Permanently for https://localhost/lms/?p=291
+22:26:33	Warning: 	File has moved from https://localhost/lms/?p=291 to https://localhost/lms/course/photography-fundamentals/
+22:26:41	Error: 	"Not Found" (404) at link https://localhost/lms/course/photography-fundamentals/admin@education-lms.com (from https://localhost/lms/course/photography-fundamentals/)
+22:26:41	Warning: 	Moved Permanently for https://localhost/lms/?p=290
+22:26:41	Warning: 	File has moved from https://localhost/lms/?p=290 to https://localhost/lms/course/affiliate-marketing/
+22:26:49	Error: 	"Not Found" (404) at link https://localhost/lms/course/affiliate-marketing/admin@education-lms.com (from https://localhost/lms/course/affiliate-marketing/)
+22:26:49	Warning: 	Moved Permanently for https://localhost/lms/?p=287
+22:26:49	Warning: 	File has moved from https://localhost/lms/?p=287 to https://localhost/lms/course/the-complete-html5-css3/
+22:26:57	Error: 	"Not Found" (404) at link https://localhost/lms/course/the-complete-html5-css3/admin@education-lms.com (from https://localhost/lms/course/the-complete-html5-css3/)
+22:26:58	Warning: 	Moved Permanently for https://localhost/lms/?p=286
+22:26:58	Warning: 	File has moved from https://localhost/lms/?p=286 to https://localhost/lms/course/become-a-seo-master/
+22:27:06	Error: 	"Not Found" (404) at link https://localhost/lms/course/become-a-seo-master/admin@education-lms.com (from https://localhost/lms/course/become-a-seo-master/)
+22:27:06	Warning: 	Moved Permanently for https://localhost/lms/?p=280
+22:27:06	Warning: 	File has moved from https://localhost/lms/?p=280 to https://localhost/lms/course/instruction-learnpress-lms/
+22:27:14	Error: 	"Not Found" (404) at link https://localhost/lms/course/instruction-learnpress-lms/admin@education-lms.com (from https://localhost/lms/course/instruction-learnpress-lms/)
+22:27:14	Warning: 	Moved Permanently for https://localhost/lms/?p=8
+22:27:14	Warning: 	File has moved from https://localhost/lms/?p=8 to https://localhost/lms/course/sample-course/
+22:27:23	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course/admin@education-lms.com (from https://localhost/lms/course/sample-course/)
+22:27:23	Warning: 	Moved Permanently for https://localhost/lms/?p=502
+22:27:23	Warning: 	File has moved from https://localhost/lms/?p=502 to https://localhost/lms/course/sample-course-2/
+22:31:07	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/)
+22:31:07	Warning: 	Moved Permanently for https://localhost/lms/?p=269
+22:31:07	Warning: 	File has moved from https://localhost/lms/?p=269 to https://localhost/lms/relax-exercise/
+22:31:07	Error: 	"Method Not Allowed" (405) at link https://localhost/lms/xmlrpc.php (from https://localhost/lms/relax-exercise/)
+22:31:07	Error: 	"Not Found" (404) at link https://localhost/lms/relax-exercise/admin@education-lms.com (from https://localhost/lms/relax-exercise/)
+22:31:07	Warning: 	Moved Permanently for https://localhost/lms/?p=267
+22:31:07	Warning: 	File has moved from https://localhost/lms/?p=267 to https://localhost/lms/online-kids-course/
+22:31:07	Error: 	"Not Found" (404) at link https://localhost/lms/online-kids-course/admin@education-lms.com (from https://localhost/lms/online-kids-course/)
+22:31:07	Warning: 	Moved Permanently for https://localhost/lms/?p=265
+22:31:07	Warning: 	File has moved from https://localhost/lms/?p=265 to https://localhost/lms/children-is-future/
+22:31:07	Error: 	"Not Found" (404) at link https://localhost/lms/children-is-future/admin@education-lms.com (from https://localhost/lms/children-is-future/)
+22:31:07	Warning: 	Moved Permanently for https://localhost/lms/?p=263
+22:31:07	Warning: 	File has moved from https://localhost/lms/?p=263 to https://localhost/lms/education-lms-wordpress-plugin/
+22:31:07	Error: 	"Not Found" (404) at link https://localhost/lms/education-lms-wordpress-plugin/admin@education-lms.com (from https://localhost/lms/education-lms-wordpress-plugin/)
+22:31:07	Warning: 	Moved Permanently for https://localhost/lms/?p=261
+22:31:07	Warning: 	File has moved from https://localhost/lms/?p=261 to https://localhost/lms/new-taxas-school-budget/
+22:31:07	Error: 	"Not Found" (404) at link https://localhost/lms/new-taxas-school-budget/admin@education-lms.com (from https://localhost/lms/new-taxas-school-budget/)
+22:31:08	Warning: 	Moved Permanently for https://localhost/lms/?p=259
+22:31:08	Warning: 	File has moved from https://localhost/lms/?p=259 to https://localhost/lms/why-you-should-learn-everyday/
+22:31:08	Error: 	"Not Found" (404) at link https://localhost/lms/why-you-should-learn-everyday/admin@education-lms.com (from https://localhost/lms/why-you-should-learn-everyday/)
+22:31:08	Warning: 	Moved Permanently for https://localhost/lms/?p=389
+22:31:08	Warning: 	File has moved from https://localhost/lms/?p=389 to https://localhost/lms/shop/
+22:31:08	Error: 	"Not Found" (404) at link https://localhost/lms/shop/admin@education-lms.com (from https://localhost/lms/shop/)
+22:31:09	Warning: 	Moved Permanently for https://localhost/lms/?p=1
+22:31:09	Warning: 	File has moved from https://localhost/lms/?p=1 to https://localhost/lms/hello-world/
+22:31:09	Error: 	"Not Found" (404) at link https://localhost/lms/hello-world/admin@education-lms.com (from https://localhost/lms/hello-world/)
+22:31:09	Error: 	"Not Found" (404) at link https://localhost/lms/author/admin/admin@education-lms.com (from https://localhost/lms/author/admin/)
+22:31:09	Error: 	"Not Found" (404) at link https://localhost/lms/category/uncategorized/admin@education-lms.com (from https://localhost/lms/category/uncategorized/)
+22:31:09	Warning: 	Moved Permanently for https://localhost/lms/?p=686
+22:31:09	Warning: 	File has moved from https://localhost/lms/?p=686 to https://localhost/lms/profile-2/
+22:31:15	Error: 	"Not Found" (404) at link https://localhost/lms/profile-2/admin/admin@education-lms.com (from https://localhost/lms/profile-2/admin/)
+22:31:16	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-1-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-1-2/)
+22:31:18	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-2-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-2-2/)
+22:31:20	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-3-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-3-2/)
+22:31:23	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-4-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-4-2/)
+22:31:25	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-5-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-5-2/)
+22:31:27	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-6-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-6-2/)
+22:31:29	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-7-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-7-2/)
+22:31:31	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-8-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-8-2/)
+22:31:34	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-9-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-9-2/)
+22:31:36	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-10-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-10-2/)
+22:31:38	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-11-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-11-2/)
+22:31:44	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-12-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-12-2/)
+22:31:46	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-13-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-13-2/)
+22:31:48	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-14-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-14-2/)
+22:31:50	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-15-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-15-2/)
+22:31:52	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-16-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-16-2/)
+22:31:55	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-17-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-17-2/)
+22:31:57	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-18-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-18-2/)
+22:31:59	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-19-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-19-2/)
+22:32:01	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-20-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-20-2/)
+22:32:04	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-21-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-21-2/)
+22:32:06	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-22-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-22-2/)
+22:32:08	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-23-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-23-2/)
+22:32:10	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-24-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-24-2/)
+22:32:15	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-25-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-25-2/)
+22:32:17	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-26-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-26-2/)
+22:32:19	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-27-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-27-2/)
+22:32:22	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-28-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-28-2/)
+22:32:24	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-29-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-29-2/)
+22:32:26	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-30-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-30-2/)
+22:32:28	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-31-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-31-2/)
+22:32:31	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-32-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-32-2/)
+22:32:33	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-33-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-33-2/)
+22:32:35	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-34-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-34-2/)
+22:32:40	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-35-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-35-2/)
+22:32:42	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-36-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-36-2/)
+22:32:44	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-37-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-37-2/)
+22:32:46	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-38-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-38-2/)
+22:32:49	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-39-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-39-2/)
+22:32:51	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-40-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-40-2/)
+22:32:53	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-41-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-41-2/)
+22:32:55	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-42-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-42-2/)
+22:32:57	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-43-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-43-2/)
+22:32:59	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-44-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-44-2/)
+22:33:01	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-45-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-45-2/)
+22:33:03	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-46-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-46-2/)
+22:33:06	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-47-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-47-2/)
+22:33:11	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-48-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-48-2/)
+22:33:13	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-49-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-49-2/)
+22:33:15	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-50-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-50-2/)
+22:33:17	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-51-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-51-2/)
+22:33:19	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-52-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-52-2/)
+22:33:22	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-53-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-53-2/)
+22:33:24	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-54-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-54-2/)
+22:33:26	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-55-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-55-2/)
+22:33:28	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-56-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-56-2/)
+22:33:30	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-57-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-57-2/)
+22:33:33	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-58-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-58-2/)
+22:33:35	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-59-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-59-2/)
+22:33:37	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-60-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-60-2/)
+22:33:42	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-61-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-61-2/)
+22:33:44	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-62-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-62-2/)
+22:33:46	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-63-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-63-2/)
+22:33:49	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-64-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-64-2/)
+22:33:51	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-65-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-65-2/)
+22:33:53	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-66-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-66-2/)
+22:33:55	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-67-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-67-2/)
+22:33:57	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-68-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-68-2/)
+22:33:59	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-69-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-69-2/)
+22:34:01	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/lessons/lesson-70-2/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/lessons/lesson-70-2/)
+22:34:06	Error: 	"Not Found" (404) at link https://localhost/lms/profile-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/profile-2/admin@education-lms.com/)
+22:34:06	Error: 	"Not Found" (404) at link https://localhost/lms/profile-2/admin/dashboard/admin@education-lms.com (from https://localhost/lms/profile-2/admin/dashboard/)
+22:34:07	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/quizzes/quiz-1-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/quizzes/quiz-1-2/admin@education-lms.com/)
+22:34:08	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/quizzes/quiz-2-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/quizzes/quiz-2-2/admin@education-lms.com/)
+22:34:08	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/quizzes/quiz-3-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/quizzes/quiz-3-2/admin@education-lms.com/)
+22:34:09	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/quizzes/quiz-4-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/quizzes/quiz-4-2/admin@education-lms.com/)
+22:34:10	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/quizzes/quiz-5-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/quizzes/quiz-5-2/admin@education-lms.com/)
+22:34:10	Error: 	"Not Found" (404) at link https://localhost/lms/course/sample-course-2/quizzes/quiz-6-2/admin@education-lms.com/admin@education-lms.com (from https://localhost/lms/course/sample-course-2/quizzes/quiz-6-2/admin@education-lms.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 47 seconds : 2478 links scanned, 2350 files written (179569594 bytes overall) [183149971 bytes received at 238787 bytes/sec], 36.5 requests per connection
+(105 errors, 44 warnings, 0 messages)
